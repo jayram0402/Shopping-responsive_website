@@ -1,5 +1,5 @@
-[Nexus-Shopping website]
-Welcome to [Nexus-Shopping website]! This platform offers a user-friendly interface for online shopping, crafted with HTML, CSS, and JavaScript to provide an engaging experience for our customers.
+Nexus-Shopping website:
+Welcome to Nexus-Shopping website! This platform offers a user-friendly interface for online shopping, crafted with HTML, CSS, and JavaScript to provide an engaging experience for our customers.
 
 Features:
 --------------------------------------------
@@ -34,7 +34,7 @@ This project is licensed under the MIT License.
 Contact:
 For any inquiries or support, please contact [Jayram Sharma] at [jayramsharma0402@gmail.com].
 
-Thank you for choosing [Nexus-shopping platform]! 
+Thank you for choosing Nexus-shopping platform! 
 -- Happy shopping! 🛒🎉
 
 Demo:
